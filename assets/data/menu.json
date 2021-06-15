@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "naziv": "HOME",
+        "href": "index.html"
+    },
+    {
+        "id": 2,
+        "naziv": "SONGS",
+        "href": "songs.html"
+    },
+    {
+        "id": 3,
+        "naziv": "CONTACT",
+        "href": "contact.html"
+    },
+    {
+        "id": 4,
+        "naziv": "AUTHOR",
+        "href": "author.html"
+    },
+    {
+        "id": 5,
+        "naziv": "<i class='fas fa-record-vinyl'></i><span id='broj'></span></i>",
+        "href": "playlist.html"
+    }
+]

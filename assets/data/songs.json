@@ -1,0 +1,323 @@
+[
+    {
+        "id": 1,
+        "autor": "Eric Prydz",
+        "pesma": "Pjanoo",
+        "godina": "2008",
+        "slika": {
+            "src": "assets/img/img-songs/House/pjanoo.jpg",
+            "alt": "Eric Prydz - Pjanoo"
+        },
+        "zanrovi": 1,
+        "traka": "assets/music/pjanoo.mp3",
+        "trajanje": {
+            "min": 6,
+            "sec": 22
+        } 
+    },
+    {
+        "id": 2,
+        "autor": "John Summit",
+        "pesma": "Deep End (SIDEPIECE Remix)",
+        "godina": "2020",
+        "slika": {
+            "src": "assets/img/img-songs/House/deepEnd.jpg",
+            "alt": "John Summit - Deep End (SIDEPIECE Remix)"
+        },
+        "zanrovi": 1,
+        "traka": "assets/music/deepEnd.mp3",
+        "trajanje": {
+            "min": 3,
+            "sec": 16
+        } 
+    },
+    {
+        "id": 3,
+        "autor": "Vintage Culture",
+        "pesma": "It Is What It Is (Club Mix)",
+        "godina": "2020",
+        "slika": {
+            "src": "assets/img/img-songs/House/vintage.jpg",
+            "alt": "Vintage Culture - It Is What It Is (Club Mix)"
+        },
+        "zanrovi": 1,
+        "traka": "assets/music/vintage.mp3",
+        "trajanje": {
+            "min": 6,
+            "sec": 13
+        } 
+    },
+    {
+        "id": 4,
+        "autor": "Disciples",
+        "pesma": "All Mine (Sonny Fodera Remix)",
+        "godina": "2019",
+        "slika": {
+            "src": "assets/img/img-songs/House/disciples.jpg",
+            "alt": "Disciples - All Mine (Sonny Fodera Remix)"
+        },
+        "zanrovi": 1,
+        "traka": "assets/music/disciples.mp3",
+        "trajanje": {
+            "min": 3,
+            "sec": 58
+        } 
+    },
+    {
+        "id": 5,
+        "autor": "Dennis Ferrer",
+        "pesma": "Hey Hey (Riva Starr Club Mix)",
+        "godina": "2020",
+        "slika": {
+            "src": "assets/img/img-songs/House/hey.jpg",
+            "alt": "Dennis Ferrer - Hey Hey (Riva Starr Club Mix)"
+        },
+        "zanrovi": 1,
+        "traka": "assets/music/hey.mp3",
+        "trajanje": {
+            "min": 7,
+            "sec": 25
+        } 
+    },
+    
+    {
+        "id": 6,
+        "autor": "Pryda",
+        "pesma": "The Truth (Original Mix)",
+        "godina": "2019",
+        "slika": {
+            "src": "assets/img/img-songs/Progressive/pryda.jpg",
+            "alt": "Pryda - The Truth (Original Mix)"
+        },
+        "zanrovi": 3,
+        "traka": "assets/music/pryda.mp3",
+        "trajanje": {
+            "min": 7,
+            "sec": 40
+        } 
+    },
+    {
+        "id": 7,
+        "autor": "Boris Brejcha",
+        "pesma": "Gravity",
+        "godina": "2019",
+        "slika": {
+            "src": "assets/img/img-songs/Progressive/boris.jpg",
+            "alt": "Boris Brejcha - Gravity"
+        },
+        "zanrovi": 3,
+        "traka": "assets/music/boris.mp3",
+        "trajanje": {
+            "min": 3,
+            "sec": 36
+        } 
+    },
+    {
+        "id": 8,
+        "autor": "Wippenberg",
+        "pesma": "Pong (Tocadisco Remix)",
+        "godina": "2010",
+        "slika": {
+            "src": "assets/img/img-songs/Progressive/tocadisco.jpg",
+            "alt": "Wippenberg - Pong (Tocadisco Remix)"
+        },
+        "zanrovi": 3,
+        "traka": "assets/music/tocadisco.mp3",
+        "trajanje": {
+            "min": 5,
+            "sec": 52
+        } 
+    },
+    {
+        "id": 9,
+        "autor": "CamelPhat X Cristoph",
+        "pesma": "Breathe (Club Mix)",
+        "godina": "2018",
+        "slika": {
+            "src": "assets/img/img-songs/Progressive/breathe.jpg",
+            "alt": "CamelPhat X Cristoph - Breathe (Club Mix)"
+        },
+        "zanrovi": 3,
+        "traka": "assets/music/breathe.mp3",
+        "trajanje": {
+            "min": 7,
+            "sec": 14
+        } 
+    },
+    {
+        "id": 10,
+        "autor": "Abaze",
+        "pesma": "Perpetua",
+        "godina": "2019",
+        "slika": {
+            "src": "assets/img/img-songs/Progressive/abaze.jpg",
+            "alt": "Abaze - Perpetua"
+        },
+        "zanrovi": 3,
+        "traka": "assets/music/abaze.mp3",
+        "trajanje": {
+            "min": 7,
+            "sec": 31
+        } 
+    },
+    {
+        "id": 11,
+        "autor": "Monrroe",
+        "pesma": "The Inevitable",
+        "godina": "2015",
+        "slika": {
+            "src": "assets/img/img-songs/Drum & Bass/monrroe.jpg",
+            "alt": "Monrroe - The Inevitable"
+        },
+        "zanrovi": 4,
+        "traka": "assets/music/monrroe.mp3",
+        "trajanje": {
+            "min": 6,
+            "sec": 29
+        } 
+    },
+    {
+        "id": 12,
+        "autor": "LSB",
+        "pesma": "About Tonight",
+        "godina": "2015",
+        "slika": {
+            "src": "assets/img/img-songs/Drum & Bass/lsb.jpg",
+            "alt": "LSB - About Tonight"
+        },
+        "zanrovi": 4,
+        "traka": "assets/music/lsb.mp3",
+        "trajanje": {
+            "min": 7,
+            "sec": 0
+        } 
+    },
+    {
+        "id": 13,
+        "autor": "Enyo",
+        "pesma": "Freedom (Monrroe Remix)",
+        "godina": "2016",
+        "slika": {
+            "src": "assets/img/img-songs/Drum & Bass/freedom.jpg",
+            "alt": "Enyo - Freedom (Monrroe Remix)"
+        },
+        "zanrovi": 4,
+        "traka": "assets/music/freedom.mp3",
+        "trajanje": {
+            "min": 5,
+            "sec": 45
+        } 
+    },
+    {
+        "id": 14,
+        "autor": "Netsky",
+        "pesma": "Your Way",
+        "godina": "2011",
+        "slika": {
+            "src": "assets/img/img-songs/Drum & Bass/netsky.jpg",
+            "alt": "Netsky - Your Way"
+        },
+        "zanrovi": 4,
+        "traka": "assets/music/netsky.mp3",
+        "trajanje": {
+            "min": 6,
+            "sec": 1
+        } 
+    },
+    {
+        "id": 15,
+        "autor": "Bekfleš",
+        "pesma": "Biću Tvoj (Tendo Remix)",
+        "godina": "2017",
+        "slika": {
+            "src": "assets/img/img-songs/Drum & Bass/bekfles.png",
+            "alt": "Bekfleš - Biću Tvoj (Tendo Remix)"
+        },
+        "zanrovi": 4,
+        "traka": "assets/music/bekfles.mp3",
+        "trajanje": {
+            "min": 3,
+            "sec": 18
+        } 
+    },
+    {
+        "id": 16,
+        "autor": "Solomun",
+        "pesma": "Something We All Adore (Solomun Mix)",
+        "godina": "2015",
+        "slika": {
+            "src": "assets/img/img-songs/Deep House/solomun.jpg",
+            "alt": "Solomun - Something We All Adore (Solomun Mix)"
+        },
+        "zanrovi": 2,
+        "traka": "assets/music/solomun.mp3",
+        "trajanje": {
+            "min": 5,
+            "sec": 56
+        } 
+    },
+    {
+        "id": 17,
+        "autor": "Solomon Grey",
+        "pesma": "Miradors (Lane 8 Remix)",
+        "godina": "2020",
+        "slika": {
+            "src": "assets/img/img-songs/Deep House/miradors.jpg",
+            "alt": "Solomon Grey - Miradors (Lane 8 Remix)"
+        },
+        "zanrovi": 2,
+        "traka": "assets/music/miradors.mp3",
+        "trajanje": {
+            "min": 9,
+            "sec": 12
+        } 
+    },
+    {
+        "id": 18,
+        "autor": "Zubi & Anatu",
+        "pesma": "Sugar (Cricket & Avaxus Remix)",
+        "godina": "2020",
+        "slika": {
+            "src": "assets/img/img-songs/Deep House/sugar.jpg",
+            "alt": "Zubi & Anatu - Sugar (Cricket & Avaxus Remix)"
+        },
+        "zanrovi": 2,
+        "traka": "assets/music/sugar.mp3",
+        "trajanje": {
+            "min": 4,
+            "sec": 30
+        } 
+    },
+    {
+        "id": 19,
+        "autor": "Tube & Berger x Juliet Sikora",
+        "pesma": "Come on now (Set it off)",
+        "godina": "2013",
+        "slika": {
+            "src": "assets/img/img-songs/Deep House/tube.jpg",
+            "alt": "Tube & Berger x Juliet Sikora - Come on now (Set it off)"
+        },
+        "zanrovi": 2,
+        "traka": "assets/music/tube.mp3",
+        "trajanje": {
+            "min": 6,
+            "sec": 20
+        } 
+    },
+    {
+        "id": 20,
+        "autor": "ZHU",
+        "pesma": "Faded (Original Mix)",
+        "godina": "2014",
+        "slika": {
+            "src": "assets/img/img-songs/Deep House/faded.jpg",
+            "alt": "ZHU - Faded (Original Mix)"
+        },
+        "zanrovi": 2,
+        "traka": "assets/music/faded.mp3",
+        "trajanje": {
+            "min": 3,
+            "sec": 43
+        } 
+    }
+]

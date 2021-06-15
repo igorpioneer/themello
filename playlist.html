@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="keywords" content="music, play, playlist, the mello, songs, enjoy">
+    <meta name="description" content="Enjoy in your favorite playlist">
+    <meta name="author" content="mailto:igor.rankovic.50.14@ict.edu.rs">
+    <meta name="copyright" content="Igor Rankovic @ 2021." />
+    <title>Mello | Playlist</title>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp" crossorigin="anonymous">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="shortcut icon" href="assets/img/note.ico" type="image/x-icon">
+    <link href="https://fonts.googleapis.com/css2?family=RocknRoll+One&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+    <!-- Header starts -->
+    <header class="header slika">
+        <nav>
+            <h1><a href="index.html"><i class="fas fa-headphones org"></i> The Mello</a></h1>
+            <ul class="nav-links" id="navLinks">
+                <!-- Dinamicki ispis navigacionog menija is json-a -->
+            </ul>
+            <div class="burger">
+                <span class="line line1"></span>
+                <span class="line line2"></span>
+                <span class="line line3"></span>
+            </div>
+        </nav>
+    </header>
+    <!-- Header ends -->
+    
+    <main>
+        <!-- Section playlist starts -->
+        <section class="playlist container">
+            <div class="headline">
+                
+            </div>
+            <div class="duration">
+                <p>Playlist duration: <span id="dur"></span> </p>
+                <input type="button" id="delete-playlist" value="Delete Playlist">
+            </div>
+            <ul id="playlist">
+               <!-- Dinamicki ispis pesama iz LocalStorage-a koje su izabrane na stranici songs.html -->
+            </ul>
+            </div>
+        </section>
+        <!-- Section playlist ends -->
+    </main>
+
+    <!-- Footer starts -->
+    <footer class="footer">
+        <div class="wrapper">
+            <div class="row">
+                <div class="footer-col">
+                    <h4>Fast links</h4>
+                    <ul id="footer-nav">
+                        <!-- Dinamicki ispis navigacionog menija is json-a -->
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>Follow us</h4>
+                    <ul class="social-links">
+                       <!-- Dinamicki ispis menija iz json-a sa likovima ka socijalnim mrezama  -->
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <p>Igor Rankovic &copy; 2021</p>
+    </footer>
+    <!-- Footer ends -->
+    <div class="back-to-top">
+        <i class="fas fa-arrow-up"></i>
+    </div>
+
+
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script src="assets/js/main.js"></script>
+</body>
+</html>

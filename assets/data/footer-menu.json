@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "naziv": "HOME",
+        "href": "index.html"
+    },
+    {
+        "id": 2,
+        "naziv": "SONGS",
+        "href": "songs.html"
+    },
+    {
+        "id": 3,
+        "naziv": "CONTACT",
+        "href": "contact.html"
+    },
+    {
+        "id": 4,
+        "naziv": "AUTHOR",
+        "href": "author.html"
+    },
+    {
+        "id": 5,
+        "naziv": "PLAYLIST",
+        "href": "playlist.html"
+    },
+    {
+        "id": 6,
+        "naziv": "DOCUMENTATION",
+        "href": "dokumentacija.pdf"
+    }
+]

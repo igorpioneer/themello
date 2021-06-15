@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "naziv": "facebook",
+        "href": "https://www.facebook.com/"
+    },
+    {
+        "id": 2,
+        "naziv": "instagram",
+        "href": "https://www.instagram.com/"
+    },
+    {
+        "id": 3,
+        "naziv": "youtube",
+        "href": "https://www.youtube.com/"
+    },
+    {
+        "id": 4,
+        "naziv": "soundcloud",
+        "href": "https://soundcloud.com/"
+    },
+    {
+        "id": 5,
+        "naziv": "spotify",
+        "href": "https://www.spotify.com/us/"
+    },
+    {
+        "id": 6,
+        "naziv": "deezer",
+        "href": "https://www.deezer.com/us/"
+    }
+]
